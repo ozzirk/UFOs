@@ -11,7 +11,7 @@ The new webpage now features a multi-criteria search that will allow you to be a
 **Summary**
 
 In summary, this is a great improvement which allows the data to be more usable. A downside of this new design is that the removal of the filter button and use of enter to search may not be as intuitive as the original design. 
-![enter image description here](https://github.com/ozzirk/UFOs/blob/main/Filters.PNG?raw=true)
+![enter image description here](https://raw.githubusercontent.com/ozzirk/UFOs/5dc009d0708d54e3f8918ad06585b46f8df49538/Filters.PNG)
 Two recommendations for further development would be:
 1. Selection from available data for each filter field, so users can know before they query what information is in the dataset
 2. An option to export the filtered data for further analysis
